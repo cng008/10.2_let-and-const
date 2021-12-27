@@ -1,0 +1,10 @@
+What is the difference between var and let?
+
+
+What is the difference between var and const?
+
+
+What is the difference between let and const?
+
+
+What is hoisting?
